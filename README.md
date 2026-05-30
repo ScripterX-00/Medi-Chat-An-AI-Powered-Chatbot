@@ -4,9 +4,12 @@
 
 
 ## About the Project
-Medi-Chat is an AI-powered chatbot designed to provide medical information and answer health-related queries. The system leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques to deliver accurate and context-aware responses.
+Medi-Chat is an AI-powered chatbot designed to provide medical information and assist users with health-related queries. The system leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques to generate informative, relevant, and context-aware responses based on retrieved medical knowledge.
 
-![alt text](Medi-Chat_Report/Medi-Chat_Documentation.pdf)
+
+## Documentation
+
+[View Project Documentation](Medi-Chat_Report/Medi-Chat_Documentation.pdf)
 
 
 ## Prerequisites
