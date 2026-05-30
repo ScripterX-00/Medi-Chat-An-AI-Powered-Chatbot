@@ -69,5 +69,6 @@ Medi-Chat/
     ├── base.html
     ├── login.html
     ├── signup.html
+    ├── forgot_password.html
     └── chat.html
 ```
